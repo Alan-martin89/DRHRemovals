@@ -1,0 +1,164 @@
+/*
+font-family: 'Alegreya', serif;
+font-family: 'Anonymous Pro', monospace;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+*/
+
+
+body{
+    margin: 0;
+    
+}
+.textdec{
+    text-decoration: underline #0f5195;
+}
+.new{
+    border-radius: 30px;
+background: #d5dbe2;
+box-shadow:  18px 18px 36px #aaafb5,
+             -18px -18px 36px #ffffff;
+}
+.new-two{
+    border-radius: 20px;
+background: #808080;
+box-shadow:  -11px -11px 22px #646464,
+             11px 11px 22px #9c9c9c;
+}
+.algreya{
+    font-family: 'Alegreya', serif;
+}
+.h2style{
+    color: aliceblue;
+    padding: 10%;
+    padding-bottom: 0%;
+    font-size: 4rem;
+}
+.anon{
+    font-family: 'Anonymous Pro', monospace; 
+    font-weight: 600;
+}
+.navborderbottom{
+    border-style: solid;
+    border-color: #0f5195;
+    background-color: white;
+}
+h1{
+    color: #0f5195 ;
+    
+}
+.drhlogo{
+    width: 100%;
+    height: 100%;
+    
+}
+.gallsize{
+    width: 80vw;
+    height: 50vh;
+}
+.gallhead{
+    display: none;
+}
+main{
+    background-color: rgb(128, 128, 128);
+    height: 400vh;
+    margin-top: 12%;
+}
+.phonelinktop{
+    background-color: aliceblue;
+    margin: 10%;
+    padding: 1rem;
+    margin-top: 30%;
+    border-radius: 1rem;
+}
+.removaltopsection{
+        margin-bottom: 10%;
+        margin-top: 0;
+}
+    
+.articlestyle{
+        background-color: gray;
+        margin: 2rem;
+        padding: 2rem;
+    }
+.h3style{
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 5vw;
+}
+.pstyletop{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 4vw;
+    font-weight: 600;
+}
+.h4style{
+    color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    margin-top: 2%;
+}
+.sectionbackground{
+   
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    
+}
+.servicestitle{
+    text-align: center;
+    
+    font-family: 'Roboto Condensed', sans-serif;
+    color: aliceblue;
+    font-size: 7vw;
+}
+.bluesection{
+    background-color: #0f5195;
+    margin: 10%;
+}
+.newblue{
+    border-radius: 20px;
+background: #0f5195;
+box-shadow:  -11px -11px 22px #0c3f74,
+             11px 11px 22px #1263b6;
+}
+.tc{
+    text-align: center;
+}
+.asidemargin{
+    margin-top: 1rem;
+}
+@media (min-width: 768px) {
+    .brandon{
+        display: none;
+    }
+    .removaltopsection{
+        margin-top: 10rem;
+    }
+    .drhlogo{
+        width: 10%;
+       
+        
+    }
+    main{
+        margin-top: 10%;
+        height: 650vh;
+    }
+    .desk{
+        font-size: 6vw;    
+}
+
+.newfontsize{
+    font-size: 3vw;
+    padding: 1%;
+    margin: 0%;
+}
+.bluesection{
+    background-color: #0f5195;
+    margin: 0%;
+}
+
+.gallerypics{
+    height: 50vh;
+    width: 100vw;
+}
+}
